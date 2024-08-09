@@ -15,10 +15,11 @@ Name your servlet (e.g., ReminderServlet).
 
 Now create all the files accordingly
 
-#Testing
+Testing
 Open your browser and navigate to http://localhost:8080/ReminderApp/index.html. Fill in the form and submit it. You should see the reminder details displayed on the screen.
 
-#Enhancements
+Enhancements
+
 1. Scheduling Reminders:
 
 Use a backend scheduling library like Quartz to handle scheduling reminders.
