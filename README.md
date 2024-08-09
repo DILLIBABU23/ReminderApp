@@ -8,7 +8,7 @@ Create a Dynamic Web Project in Eclipse:
 File > New > Dynamic Web Project.
 Give your project a name (e.g., ReminderApp).
 
-3. Add a Servlet:
+2. Add a Servlet:
 
 Right-click on the src folder > New > Servlet.
 Name your servlet (e.g., ReminderServlet).
@@ -23,6 +23,7 @@ Open your browser and navigate to http://localhost:8080/ReminderApp/index.html. 
 
 Use a backend scheduling library like Quartz to handle scheduling reminders.
 Store reminders in a database and retrieve them as needed.
+
 2. Playing a Sound:
 
 For web-based sound notifications, you can use the Web Audio API in JavaScript.
